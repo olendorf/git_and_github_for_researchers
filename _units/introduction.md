@@ -2,11 +2,11 @@
 layout: page
 title: Introduction
 
-order: 0
+order: 1
 
 duration: 15
 
-tutorial: false
+tutorial: true
 instructors_notes: true
 
 # Provide a brief description of what the unit is about. You can use markdown

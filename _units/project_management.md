@@ -1,14 +1,14 @@
 ---
 layout: page   # This is required
-title: Introductions   # This is required
+title: Project Management   # This is required
 
-order: -1    # Determines the order of units. Doesn't need to be consecutive though
+order: 70    # Determines the order of units. Doesn't need to be consecutive though
             # or even start with zero, the pages will be displayed in their sort
             # order.
 
 duration: 15 # A hint to how long it will take to cover this topic in mintues.
 
-tutorial: false  # Set to true if you want this page displayed as a web page
+tutorial: true  # Set to true if you want this page displayed as a web page
 instructors_notes: true  # Set to true if you want this displayed in instructors notes
 
 # Provide a brief description of what the unit is about. You can use markdown
@@ -49,7 +49,7 @@ be a strong online component that learners can come back to as needed.
 
 The content should be organized and open to all to view. 
 
-The content in a workshop shouldn't rely in the creators' or past
+The content in a workshop shouldn't rely on the creators' or past
 instructors to be viable. Enough information should be given to allow reuse.
 
 The workshops should be *web friendly* in that they are easily indexed 
